@@ -1,0 +1,15 @@
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\bin\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.deps.json
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\bin\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.dll
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\bin\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.pdb
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.csproj.AssemblyReference.cache
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.AssemblyInfoInputs.cache
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.AssemblyInfo.cs
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.csproj.CoreCompileInputs.cache
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.sourcelink.json
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.csproj.Fody.CopyLocal.cache
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.csproj.Fody.RuntimeCopyLocal.cache
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.dll
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\refint\WEMBLEY.DemoApp.Core.dll
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\WEMBLEY.DemoApp.Core.pdb
+D:\Project\WPF_App\desktop_wembley_scada\WEMBLEY.DemoApp.Core\obj\Debug\net6.0-windows\ref\WEMBLEY.DemoApp.Core.dll
